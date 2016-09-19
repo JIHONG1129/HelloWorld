@@ -1,2 +1,3 @@
-# HelloWorld
-你好
+﻿# HelloWorld
+Here is new life
+Please live it
